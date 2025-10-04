@@ -1,0 +1,63 @@
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.exe
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.deps.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.dll
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.pdb
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FormsApp.props
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FormsApp.props
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FormsApp.props
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.dll
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\refint\FormsApp.dll
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.pdb
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.endpoints.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.exe
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.deps.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\bin\Debug\net7.0\FormsApp.pdb
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\refint\FormsApp.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.pdb
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll

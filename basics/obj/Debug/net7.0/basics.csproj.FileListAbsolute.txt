@@ -1,0 +1,63 @@
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\appsettings.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\basics.staticwebassets.runtime.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\basics.exe
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\basics.deps.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\basics.runtimeconfig.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\basics.dll
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\bin\Debug\net7.0\basics.pdb
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.AssemblyInfoInputs.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.AssemblyInfo.cs
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.csproj.CoreCompileInputs.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.RazorAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.RazorAssemblyInfo.cs
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets\msbuild.basics.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets\msbuild.build.basics.props
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.basics.props
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.basics.props
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\scopedcss\bundle\basics.styles.css
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\scopedcss\projectbundle\basics.bundle.scp.css
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.dll
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\refint\basics.dll
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.pdb
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\basics.genruntimeconfig.cache
+C:\Users\nfsbo\Desktop\aspnetcore7\basics\obj\Debug\net7.0\ref\basics.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\appsettings.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\basics.staticwebassets.runtime.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\basics.staticwebassets.endpoints.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\basics.exe
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\basics.deps.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\basics.runtimeconfig.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\basics.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\bin\Debug\net7.0\basics.pdb
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\rpswa.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.AssemblyInfoInputs.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.AssemblyInfo.cs
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.csproj.CoreCompileInputs.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.RazorAssemblyInfo.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.RazorAssemblyInfo.cs
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\rjimswa.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\rjsmrazor.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\rjsmcshtml.dswa.cache.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\scopedcss\bundle\basics.styles.css
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\scopedcss\projectbundle\basics.bundle.scp.css
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.build.json.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\refint\basics.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.pdb
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\basics.genruntimeconfig.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\aspnetcore7\basics\obj\Debug\net7.0\ref\basics.dll

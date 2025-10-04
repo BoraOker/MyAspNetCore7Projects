@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nfsbo\\Desktop\\YAZILIM 2024\\aspnetcore7\\ProductsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE16C68-D6FA-4BB3-BC46-0F4DBE9B6ECD}|ProductsAPI.csproj|c:\\users\\nfsbo\\desktop\\yazilim 2024\\aspnetcore7\\productsapi\\models\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE16C68-D6FA-4BB3-BC46-0F4DBE9B6ECD}|ProductsAPI.csproj|solutionrelative:models\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE16C68-D6FA-4BB3-BC46-0F4DBE9B6ECD}|ProductsAPI.csproj|c:\\users\\nfsbo\\desktop\\yazilim 2024\\aspnetcore7\\productsapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE16C68-D6FA-4BB3-BC46-0F4DBE9B6ECD}|ProductsAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsContext.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\YAZILIM 2024\\aspnetcore7\\ProductsAPI\\Models\\ProductsContext.cs",
+              "RelativeDocumentMoniker": "Models\\ProductsContext.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\YAZILIM 2024\\aspnetcore7\\ProductsAPI\\Models\\ProductsContext.cs",
+              "RelativeToolTip": "Models\\ProductsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:30:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nfsbo\\Desktop\\YAZILIM 2024\\aspnetcore7\\ProductsAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\nfsbo\\Desktop\\YAZILIM 2024\\aspnetcore7\\ProductsAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:30:27.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
